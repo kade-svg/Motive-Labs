@@ -16,8 +16,3 @@ This GitHub Pages-ready site includes the updated Motive Labs experience, with r
 - Persistent light/dark mode using local storage
 - Responsive navigation and layouts for phones and desktop
 - Entrance animations with reduced-motion support
-- Favicon included in `assets/favicon.svg`
-
-## GitHub Pages
-
-Upload the contents of this folder to the repository root and enable GitHub Pages from the repository's Pages settings. The site uses only HTML, CSS, JavaScript, and SVG assets.
